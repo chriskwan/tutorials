@@ -1,5 +1,5 @@
 # tutorials
-A list of tutorials for learning different things
+A list of tutorials I've used for learning different things
 
 ## [D3](http://d3js.org/)
 Tutorial | My Code
