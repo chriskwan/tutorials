@@ -9,4 +9,4 @@ Tutorial | My Code
 ## [Meteor](https://www.meteor.com/)
 Tutorial | My Code
 -------- | -------
-[Building Facebook with Meteor in an Afternoon](http://krishamoud.me/building-a-facebook-clone-with-meteorjs/) | 
+[Building Facebook with Meteor in an Afternoon](http://krishamoud.me/building-a-facebook-clone-with-meteorjs/) | [tutorial-meteor-facebook-clone](https://github.com/chriskwan/tutorial-meteor-facebook-clone)
