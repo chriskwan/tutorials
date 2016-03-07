@@ -6,6 +6,12 @@ Tutorial | My Code
 -------- | -------
 [Get started with API Apps and ASP.NET in Azure App Service](https://azure.microsoft.com/en-us/documentation/articles/app-service-api-dotnet-get-started/) | 
 
+## [Chrome Extensions](https://developer.chrome.com/extensions)
+Tutorial | My Code
+-------- | -------
+[Google's "Getting Started: Building a Chrome Extension"](https://developer.chrome.com/extensions/getstarted) | [tutorial-chrome-extension](https://github.com/chriskwan/tutorial-chrome-extension)
+[thoughtbot's "How to Make a Chrome Extension"](https://robots.thoughtbot.com/how-to-make-a-chrome-extension) | 
+
 ## [D3](http://d3js.org/)
 Tutorial | My Code
 -------- | -------
