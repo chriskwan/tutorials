@@ -4,19 +4,19 @@ A list of tutorials I've used for learning different things
 ## [Azure](https://azure.microsoft.com)
 Tutorial | My Code
 -------- | -------
-[Get started with API Apps and ASP.NET in Azure App Service](https://azure.microsoft.com/en-us/documentation/articles/app-service-api-dotnet-get-started/) | 
+[Get started with API Apps and ASP.NET in Azure App Service (Microsoft)](https://azure.microsoft.com/en-us/documentation/articles/app-service-api-dotnet-get-started/) | 
 
 ## [Chrome Extensions](https://developer.chrome.com/extensions)
 Tutorial | My Code
 -------- | -------
-[Google's "Getting Started: Building a Chrome Extension"](https://developer.chrome.com/extensions/getstarted) | [tutorial-chrome-extension](https://github.com/chriskwan/tutorial-chrome-extension)
-[thoughtbot's "How to Make a Chrome Extension"](https://robots.thoughtbot.com/how-to-make-a-chrome-extension) | 
+[Getting Started: Building a Chrome Extension (Google)](https://developer.chrome.com/extensions/getstarted) | [tutorial-chrome-extension](https://github.com/chriskwan/tutorial-chrome-extension)
+[How to Make a Chrome Extension (thoughtbot)](https://robots.thoughtbot.com/how-to-make-a-chrome-extension) | 
 
 ## [D3](http://d3js.org/)
 Tutorial | My Code
 -------- | -------
 [Scott Murray's D3 Tutorials](http://alignedleft.com/tutorials/d3) | [tutorial-d3-scott-murray](https://github.com/chriskwan/tutorial-d3-scott-murray)
-[Pluralsight's D3.js Data Visualization Fundamentals Course](http://www.pluralsight.com/courses/d3js-data-visualization-fundamentals) | [tutorial-pluralsight-d3js-data-visualization-fundamentals](https://github.com/chriskwan/tutorial-pluralsight-d3js-data-visualization-fundamentals)
+[D3.js Data Visualization Fundamentals (Pluralsight)](http://www.pluralsight.com/courses/d3js-data-visualization-fundamentals) | [tutorial-pluralsight-d3js-data-visualization-fundamentals](https://github.com/chriskwan/tutorial-pluralsight-d3js-data-visualization-fundamentals)
 
 ## [ES6](http://www.ecma-international.org/ecma-262/6.0/)
 Tutorial | My Code
