@@ -23,6 +23,11 @@ Tutorial | My Code
 -------- | -------
 [ECMAScript 6 Mortgage Calculator Tutorial (with Babel and Webpack)](http://ccoenraets.github.io/es6-tutorial/index.html) | [tutorial-es6-mortgage-calculator](https://github.com/chriskwan/tutorial-es6-mortgage-calculator)
 
+## [Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout)
+Tutorial | My Code
+-------- | -------
+[Flexbox Froggy - A game for learning CSS flexbox](http://flexboxfroggy.com) | 
+
 ## [Meteor](https://www.meteor.com/)
 Tutorial | My Code
 -------- | -------
