@@ -37,7 +37,7 @@ Tutorial | My Code
 Tutorial | My Code
 -------- | -------
 [Top 5 Tutorials for Getting Started with React by Andrew H Farmer](http://andrewhfarmer.com/getting-started-tutorials/) |
-[Build with React](http://buildwithreact.com/tutorial) | 
+[Build with React](http://buildwithreact.com/tutorial) | [tutorial-react-build-with](https://github.com/chriskwan/tutorial-react-build-with)
 
 ## [Unity](https://unity3d.com/)
 Tutorial | My Code
