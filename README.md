@@ -36,6 +36,7 @@ Tutorial | My Code
 ## [React](https://facebook.github.io/react/)
 Tutorial | My Code
 -------- | -------
+[Top 5 Tutorials for Getting Started with React by Andrew H Farmer](http://andrewhfarmer.com/getting-started-tutorials/) |
 [Build with React](http://buildwithreact.com/tutorial) | 
 
 ## [Unity](https://unity3d.com/)
