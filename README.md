@@ -53,7 +53,7 @@ Tutorial | My Code
 ## [Redux](http://redux.js.org/)
 Tutorial | My Code
 -------- | -------
-[Read Me | Redux](http://redux.js.org/index.html)
+[Read Me \| Redux](http://redux.js.org/index.html)
 
 ## [Unity](https://unity3d.com/)
 Tutorial | My Code
