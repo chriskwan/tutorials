@@ -52,6 +52,7 @@ Tutorial | My Code
 Tutorial | My Code
 -------- | -------
 [Next.js React Foundations Course](https://nextjs.org/learn/react-foundations) | [tutorial-nextjs-react-foundations](https://github.com/chriskwan/tutorial-nextjs-react-foundations)
+[Next.js Dashboard App Course](https://nextjs.org/learn/dashboard-app) | [tutorial-nextjs-dashboard-app](https://github.com/chriskwan/tutorial-nextjs-dashboard-app)
 
 ## [React](https://facebook.github.io/react/)
 Tutorial | My Code
