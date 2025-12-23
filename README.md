@@ -48,12 +48,18 @@ Tutorial | My Code
 -------- | -------
 [First steps \| NestJS - A progressive Node.js framework](https://docs.nestjs.com/first-steps) | [tutorial-nestjs](https://github.com/chriskwan/tutorial-nestjs/)
 
+## [Next.js](https://nextjs.org/)
+Tutorial | My Code
+-------- | -------
+[Next.js React Foundations Course](https://nextjs.org/learn/react-foundations) | [tutorial-nextjs-react-foundations](https://github.com/chriskwan/tutorial-nextjs-react-foundations)
+
 ## [React](https://facebook.github.io/react/)
 Tutorial | My Code
 -------- | -------
 [Top 5 Tutorials for Getting Started with React by Andrew H Farmer](http://andrewhfarmer.com/getting-started-tutorials/) |
 [Build with React](http://buildwithreact.com/tutorial) | [tutorial-react-build-with](https://github.com/chriskwan/tutorial-react-build-with)
 [React Router](https://github.com/reactjs/react-router-tutorial) | [tutorial-react-router](https://github.com/chriskwan/tutorial-react-router)
+[Next.js React Foundations Course](https://nextjs.org/learn/react-foundations) | [tutorial-nextjs-react-foundations](https://github.com/chriskwan/tutorial-nextjs-react-foundations)
 
 ## [Redux](http://redux.js.org/)
 Tutorial | My Code
